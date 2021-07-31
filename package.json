@@ -1,0 +1,14 @@
+{
+  "name": "plu-quiz",
+  "version": "1.0.0",
+  "description": "plu nummern game",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Viktor Bajs-Jovanovic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
